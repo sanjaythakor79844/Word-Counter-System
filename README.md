@@ -18,7 +18,7 @@ Input Text Box:<br>
         <pre><code>pip install streamlit</code></pre>
     </li>
     <li><strong>Run the application:</strong>
-        <pre><code>streamlit run app.py</code></pre>
+        <pre><code>streamlit run N.py</code></pre>
     </li>
     <li><strong>Open the link provided by Streamlit in your browser</strong> to interact with the app.</li>
 </ol>
