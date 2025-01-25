@@ -1,11 +1,11 @@
 # Word-Counter-System
 This is a Streamlit-based application that counts the number of words in the text or paragraph provided by the user. The app is designed to be simple, intuitive, and efficient, offering a clean interface for users to interact with.
 
-# Features
+# Features <ul>
 Input Text Box:<br> Type or paste your paragraph into the provided text area.<br>
 Word Counting: Displays the total number of words in the input text.<br>
 Validation: Alerts users if the input is empty.<br>
-User-Friendly Interface: Built with Streamlit for simplicity and ease of use.<br>
+User-Friendly Interface: Built with Streamlit for simplicity and ease of use.<br></ul>
 # How to Run
 Clone the repository:
 git clone <repository_url>
