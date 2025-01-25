@@ -5,7 +5,7 @@ This is a Streamlit-based application that counts the number of words in the tex
 Input Text Box:<br> Type or paste your paragraph into the provided text area.<br>
 Word Counting: Displays the total number of words in the input text.<br>
 Validation: Alerts users if the input is empty.<br>
-User-Friendly Interface: Built with Streamlit for simplicity and ease of use.<br><li>
+User-Friendly Interface: Built with Streamlit for simplicity and ease of use.<br></li>
 # How to Run
 Clone the repository:
 git clone <repository_url>
