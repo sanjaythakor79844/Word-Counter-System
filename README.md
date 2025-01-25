@@ -8,9 +8,9 @@ Input Text Box:<br>
 <li>Validation: Alerts users if the input is empty.<br></li>
 <li>User-Friendly Interface: Built with Streamlit for simplicity and ease of use.<br></li>
 # How to Run
-Clone the repository:
-git clone <repository_url>
-cd word-counter-system
+*Clone the repository:<br>
+git clone <repository_url><br>
+cd word-counter-system<br>
 Install the required dependencies:
 pip install streamlit
 Run the application:
